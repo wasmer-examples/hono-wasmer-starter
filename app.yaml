@@ -1,0 +1,4 @@
+---
+kind: wasmer.io/App.v0
+name: hono-wasmer-starter
+package: wasmer-examples/hono-wasmer-starter
