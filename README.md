@@ -33,7 +33,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see you
 
 The easiest way to deploy your Hono app is to use the [Wasmer Edge](https://wasmer.io/products/edge).
 
-Live example: http://hono-wasmer-starter.wasmer.app/
+Live example: https://hono-wasmer-starter.wasmer.app/
 
 First, you'll need to run `npm run build`, and then, to deploy to Wasmer Edge:
 
