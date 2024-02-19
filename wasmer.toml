@@ -1,6 +1,6 @@
 [package]
 name = "wasmer-examples/hono-wasmer-starter"
-version = "0.1.0"
+version = "0.1.1"
 description = "Hono Website Wasmer starter package"
 readme = "README.md"
 repository = "https://github.com/wasmer-examples/hono-wasmer-starter"
