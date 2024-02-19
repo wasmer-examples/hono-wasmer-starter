@@ -1,12 +1,12 @@
 [package]
 name = "wasmer-examples/hono-wasmer-starter"
-version = "0.1.1"
+version = "0.1.3"
 description = "Hono Website Wasmer starter package"
 readme = "README.md"
 repository = "https://github.com/wasmer-examples/hono-wasmer-starter"
 
 [dependencies]
-"wasmer/winterjs" = "^0.3"
+"wasmer/winterjs" = "^0.3.4"
 
 [fs]
 "/web" = "dist"
