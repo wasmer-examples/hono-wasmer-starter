@@ -22,7 +22,7 @@ You can run the Hono example using Wasmer (check out the [install guide](https:/
 
 ```bash
 npm run build
-wasmer run . --net
+wasmer run .
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see your Hono app.
